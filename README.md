@@ -1,1 +1,1 @@
-work in progress
+It uses the provided data and datalabels to learn about the patterns in an image to determine/conclude whether the image was digit or a face.For simplicity, it used a preprocessed data points to help recognize patterns when the trained data and provided data was compared.
