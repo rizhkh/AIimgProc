@@ -1,7 +1,7 @@
 # Image Classifier
 
 Image Recognizing application that deteremine whether the image is an image or a face. It makes use of provided data set and labels to learn patterns in an image to calculate the correct frequency.
-It uses the provided data and datalabels to learn about the patterns in an image to determine/conclude whether the image was digit or a face.For simplicity, it used a preprocessed data points to help recognize patterns when the trained data and provided data was compared.
+It uses the provided data and datalabels to learn about the patterns in an image to determine content of the data.
 
 ## Installing & Running
 Main files can be downloaded from the link below. Set everything in one folder with the correct dataset address. 
